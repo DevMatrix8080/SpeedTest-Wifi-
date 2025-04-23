@@ -47,14 +47,3 @@ If you previously named your file `speedtest.py`, delete:
 
 To avoid conflicts with the real `speedtest` package.
 
----
-
-## 🖼️ Screenshot
-
-*(Optional: Add a screenshot here if you'd like)*
-
----
-
-## 📄 License
-
-MIT License – use freely, improve freely!
